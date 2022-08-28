@@ -1,0 +1,12 @@
+{
+    "name": "srikanth240369/inspire",
+    "description": "Testing for package devolopment",
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "srikanth"
+        }
+    ]
+}
